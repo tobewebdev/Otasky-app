@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+}
+
+.bg {
+    background: darkred;
+    height: 500px;
+}
+
+.logo {
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    margin-bottom: 50px;
+}
+
+.in {
+    background: darkred;
+    border: none;
+    padding: 9px;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.butto {
+    background: darkred;
+    border: none;
+    padding: 9px;
+    color: white;
+    width: 30px;
+    height: 15px;
+    margin-bottom: 50px;
+}
+
+.text {
+    border: 0px;
+    border-bottom: solid darkred;
+}
